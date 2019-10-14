@@ -59,7 +59,7 @@ Submissions to the facial expression challenge will be evaluated and compared us
 For comparison of submitted models, Matthews Correlation Coefficient [Matthews 1975](https://www.sciencedirect.com/science/article/pii/0005279575901099) (MCC), which takes into account the positive class as well as the negative classes, will be used. F1 scores for all classes in the tasks (i.e. F1 score and inverse F1 scores) and accuracy will also be computed for comparison with existing literature.
 
 ## Participate
-Participants should download, fill, and sign the end-user license agreement ([EULA]()). The EULA form can be found here (put EULA link here). The completed form should be sent to the [committee](mailto:emopain2020@gmail.com). Upon satisfactory completion and return of the form, the link to the training and validation sets will be emailed to the participant. 
+Participants should download, fill, and sign the end-user license agreement ([EULA]()). The completed form should be sent to the [committee](mailto:emopain2020@gmail.com). Upon satisfactory completion and return of the form, the link to the training and validation sets will be emailed to the participant. 
 <br>
 
 Participating teams will be expected to attempt at least one or more of the challenge tasks and send their trained models (in the form of a working code) and a clear description of any input and output parameters to the organisers before the stipulated deadline. Links to trained models can be shared with the organizers via cloud platforms, e.g., Google Drive, Dropbox or One-drive.
@@ -71,7 +71,7 @@ Participating teams can submit up to three different models for each task. The o
 At the end of the competition, the test results for all participants will be published on the Challenge's website. Participants will be ranked based on the performance metrics described above, and the winner(s) will be selected as the best performing submission. Prizes will be presented to the winning teams during the workshop program at the FG2020 conference.
 
 ## Paper Submission
-Each participating team would be required to submit a paper to the workshop, describing their proposed approach for tacking the challenge tasks as well as the results obtained. The organisers reserve the right to re-evaluate the findings, but will not participate in the challenge themselves. Participants are encouraged to compete in the three tasks. Submission should follow the FG 2020 stipulated guidelines for short papers, i.e., 4 pages + 1 page for reference. The review process will be double-blind.  More information on paper submission timelines is provided below. Please submit your paper through this link (coming soon). 
+Each participating team would be required to submit a paper to the workshop, describing their proposed approach for tackling the challenge tasks as well as the results obtained. The organisers reserve the right to re-evaluate the findings, but will not participate in the challenge themselves. Participants are encouraged to compete in the three tasks. Submission should follow the FG 2020 stipulated guidelines for short papers, i.e., 4 pages + 1 page for reference. The review process will be double-blind.  More information on paper submission timelines is provided below. Please submit your paper through this link (coming soon). 
 <br>
 
 The results of the challenge will be presented at the EmoPain 2019 workshop to be held in conjunction with the [Automatic Face and Gesture Recognition 2020](https://fg2020.org/) conference in Buenos Aires, Argentina.
